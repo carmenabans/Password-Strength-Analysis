@@ -7,7 +7,8 @@ This project explores the strength of various types of passwords by generating a
 Password security is a critical area of study in cybersecurity, as weak passwords can pose significant risks to personal and organizational security. This study aims to examine the difficulty of cracking passwords of various types and complexities. Using **John the Ripper (JtR)**, we experimented with multiple cracking strategies on datasets with controlled variations to evaluate the effectiveness of common password-cracking methods.
 
 ## Datasets
-To analyze password-cracking strategies, we generated five sets of datasets, each with five collections of 100 passwords. Each set represents a different complexity level and contains passwords generated as follows:
+To analyze password-cracking strategies, we generated five sets of datasets, each containing five collections of 100 passwords with lengths ranging from 3 to 7 characters. This results in a total of 25 sets, with 100 passwords each, amounting to **2,500 passwords** overall. Each set represents a different complexity level and contains passwords generated as follows:
+
 
 1. **Lowercase Letters Only**: Passwords composed exclusively of lowercase letters.
 2. **Uppercase Letters Only**: Passwords composed exclusively of uppercase letters.
