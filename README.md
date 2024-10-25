@@ -51,6 +51,7 @@ Graphs highlight the performance of each method, showing that while brute force 
 ## Technologies
 - **Python**: For generating password datasets and analyzing results.
 - **John the Ripper**: Tool for password cracking.
+- **Kali Linux**: Operating system used for running security tools and managing the cracking environment.
 
 ## Team
 - Carmen Abans Maciel: https://github.com/carmenabans
