@@ -56,7 +56,7 @@ Graphs highlight the performance of each method, showing that while brute force 
 
 ## Team
 - Carmen Abans Maciel: https://github.com/carmenabans
-- Noelia Hernández Rodríguez: https://github.com/Noeliahr10 
+- Noelia Hernández Rodríguez: https://github.com/Noelia-Hernandez-Rodriguez
 
 ## Highlights
 - **Grade**: Received a score of 10/10 for the quality and thoroughness of this project.
