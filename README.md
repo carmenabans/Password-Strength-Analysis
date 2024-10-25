@@ -18,7 +18,7 @@ To analyze password-cracking strategies, we generated five sets of datasets, eac
 ## Methodology
 Passwords were hashed using `md5crypt` to simulate stored password security, and five different cracking strategies were applied in **John the Ripper (JtR)**, including:
 
-1. **Dictionary Attack (Wordlist)**: This approach uses a pre-defined wordlist along with JtR’s rule-based modifications.
+1. **Dictionary Attack**: This approach uses a pre-defined wordlist along with JtR’s rule-based modifications.
 2. **Single Crack Mode**: Though less applicable for randomly generated passwords, it uses account-specific information for cracking, which is more efficient than wordlists in some real-world scenarios.
 3. **Incremental Mode**: Standard brute-force attack, testing all possible password combinations.
 4. **External Mode**: A custom mode that allows additional password generation methods using C code extensions in JtR.
